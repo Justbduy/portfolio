@@ -23,7 +23,7 @@ function AboutMe() {
 					<IntroduceBookRight>
 						<ItemWrapper>
 							<TextRight>
-								I’m <b>Ho Quoc Huy</b>, a third-year{" "}
+								I’m <b>BAO DUY</b>, a third-year{" "}
 								<b>Information Technology</b> student at
 								<b> Ho Chi Minh City Open University</b>. I
 								enjoy turning ideas into simple, reliable
